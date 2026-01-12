@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Computer Science, University of Virginia<img src="{{ '/assets/img/uva.jpg' | relative_url }}" alt="Google" style="height: 18px; vertical-align: -3px; margin-left: 6px;">
+subtitle: Department of Computer Science, University of Virginia <img src="/mingtiant/assets/img/uva.jpg" alt="UVA" style="height: 18px; vertical-align: -3px; margin-left: 6px;">
 
 profile:
   align: right
