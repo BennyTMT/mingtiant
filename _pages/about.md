@@ -26,5 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year Ph.D. student at the University of Virginia, where I am fortunate to be advised by [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/home) and [Prof. David Evans](https://www.cs.virginia.edu/~evans/). My research focuses on LLM agents and post-training, with a particular emphasis on time-series tasks. Previously, I studied at Fudan University, where I worked with [Prof. Zhe Zhou](https://www.y-droid.com/zhe/) on machine learning security and side-channel attacks.
+I am a fourth-year Ph.D. student at the University of Virginia, where I am fortunate to be advised by [Prof. Tom Hartvigsen](https://www.tomhartvigsen.com/home) and [Prof. David Evans](https://www.cs.virginia.edu/~evans/). I also collaborate closely with [Prof. Tim Althoff](https://homes.cs.washington.edu/~althoff/).
 
+My research focuses on LLM agents and post-training, with a particular emphasis on time-series forecasting and reasoning tasks. Previously, I studied at [Fudan University](https://www.fudan.edu.cn/en/), where I worked with [Prof. Zhe Zhou](https://www.y-droid.com/zhe/) on Machine Learning Security and Side-Channel Informations. 
+
+I am currently also a Student Researcher at Google <img src="{{ '/assets/img/google.svg' | relative_url }}" alt="Google" style="height: 18px; vertical-align: -3px; margin-left: 6px;">, working on agent-related projects. 
