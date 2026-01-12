@@ -28,7 +28,7 @@ I am a fourth-year Ph.D. student at the University of Virginia, where I am fortu
 
 My research focuses on LLM agents and post-training, with a particular emphasis on time-series forecasting and reasoning tasks. Previously, I studied at [Fudan University](https://www.fudan.edu.cn/en/), where I worked with [Prof. Zhe Zhou](https://www.y-droid.com/zhe/) on Machine Learning Security and Side-Channel Informations. 
 
-(I am currently also a Student Researcher at Google<img src="{{ '/assets/img/google.svg' | relative_url }}" alt="Google" style="height: 18px; vertical-align: -3px; margin-left: 6px;">, working on agent-related projects.)
+(I am also a Student Researcher at Google<img src="{{ '/assets/img/google.svg' | relative_url }}" alt="Google" style="height: 18px; vertical-align: -3px; margin-left: 6px;">, working on agent-related projects now.)
 
 Email: wtd3gz[at]virginia[dot]edu
 
