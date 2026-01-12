@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>  Email is the best way to reach me. </p>
-    <p>(wtd3gz[at]virginia[dot]edu)</p>
-
+    <p>Email is the best way to reach me. </p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -31,3 +29,7 @@ I am a fourth-year Ph.D. student at the University of Virginia, where I am fortu
 My research focuses on LLM agents and post-training, with a particular emphasis on time-series forecasting and reasoning tasks. Previously, I studied at [Fudan University](https://www.fudan.edu.cn/en/), where I worked with [Prof. Zhe Zhou](https://www.y-droid.com/zhe/) on Machine Learning Security and Side-Channel Informations. 
 
 (I am currently also a Student Researcher at Google<img src="{{ '/assets/img/google.svg' | relative_url }}" alt="Google" style="height: 18px; vertical-align: -3px; margin-left: 6px;">, working on agent-related projects.)
+
+Email: wtd3gz[at]virginia[dot]edu
+
+[Google Scholar](https://scholar.google.com/citations?user=ihFmK4cAAAAJ&hl=en)
