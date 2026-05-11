@@ -385,8 +385,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mingtiant/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-are-language-models-actually-useful-for-time-series-forecasting-has-been-accepted-as-a-spotlight-at-neurips-2024-tada-sparkles",
+          title: 'Our paper “Are language models actually useful for time series forecasting?“ has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
