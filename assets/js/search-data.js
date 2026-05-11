@@ -377,16 +377,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/mingtiant/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mingtiant/news/announcement_2/";
             },},{id: "news-our-paper-are-language-models-actually-useful-for-time-series-forecasting-has-been-accepted-as-a-spotlight-at-neurips-2024-tada-sparkles",
           title: 'Our paper “Are language models actually useful for time series forecasting?“ has been...',
+          description: "",
+          section: "News",},{id: "news-starting-onsite-internship-at-google-sunnyvale-work-on-forecasting-agents-google-rocket-chart-with-upwards-trend",
+          title: 'Starting onsite internship at Google Sunnyvale! Work on Forecasting Agents. :google: :rocket: :chart_with_upwards_trend:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
