@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting onsite internship at **Google Sunnyvale**! Work on **Forecasting Agents**. :google: :rocket: :chart_with_upwards_trend:
+Starting onsite internship at **Google Sunnyvale**! Work on **Forecasting Agents**. :rocket: :chart_with_upwards_trend:
